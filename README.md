@@ -1,6 +1,6 @@
 # Data-Structures
 
-3rd Sem Data Strucutres 
+3rd Sem Data Strucutres & Applications
 
 All Codes in C 
 
