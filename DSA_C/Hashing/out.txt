@@ -1,0 +1,17 @@
+
+ 101 	 Daksh 	 1000
+ 101 	 Daksh 	 1000
+ 101 	 Daksh 	 1000
+ 102 	 Harsh 	 6000
+ 103 	 Nakul 	 4000
+ 102 	 Lash 	 3000
+ 101 	 Daksh 	 9000
+ 101 	 Daksh 	 9000
+ 102 	 Harsh 	 6000
+ 103 	 Nakul 	 5000
+ 102 	 Lash 	 1000
+ 108 	 Gags 	 9999
+ 101 	 Daksh 	 9000
+ 102 	 Harsh 	 6000
+ 103 	 Adwik 	 5000
+ 102 	 Gagan 	 9999
